@@ -9,9 +9,9 @@ A simple, interactive chatbot designed to answer questions related to nutrition 
 - Gradio-powered interface for an interactive user experience.
 
 ## Demo
-You can try the chatbot live on the hosted Gradio link. Simply ask your nutrition-related questions and get instant responses!
+You can try the chatbot. Simply ask your nutrition-related questions and get instant responses!
 
-Link: https://4ac4c87a1656ca7942.gradio.live/
+Notebook Link: https://colab.research.google.com/drive/1ljfsl7qpD_q4hT7Cwgw6Kps3fNE3ff64?usp=sharing
 
 ## Usage
 
