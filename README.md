@@ -27,3 +27,8 @@ The chatbot will respond with a relevant answer based on the dataset.
 - How many calories in avocado?
 - How much protein in egg?
 - Give me healthy breakfast ideas
+
+## User interface
+
+![image](https://github.com/user-attachments/assets/4913f5f0-31a8-4966-a3a6-624b49c008c8)
+
