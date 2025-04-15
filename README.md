@@ -11,6 +11,8 @@ A simple, interactive chatbot designed to answer questions related to nutrition 
 ## Demo
 You can try the chatbot live on the hosted Gradio link. Simply ask your nutrition-related questions and get instant responses!
 
+Link: https://4ac4c87a1656ca7942.gradio.live/
+
 ## Usage
 
 Once the chatbot is running, you can ask questions related to nutrition, like:
